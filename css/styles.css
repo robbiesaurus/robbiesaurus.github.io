@@ -37,6 +37,16 @@
 	background-color: #00897b;
 }
 
+.seperatorEggs {
+	margin-top: 50%;
+	margin-bottom: 50%;
+}
+
+.gameContainer {
+	border-bottom: solid white 4px;
+}
+
+
  /* unvisited link */
 a:link {
   color: white;
@@ -63,4 +73,10 @@ a:active, a:focus {
   outline: 0;
   border: none;
   -moz-outline-style: none;
+}
+
+.gameTitle {
+	color: #FFCA28;
+	font-size: 3rem;
+	font-family: 'Paytone One', sans-serif;
 }
